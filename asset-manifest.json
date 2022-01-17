@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shopping_list_app/static/css/main.f7556391.chunk.css",
+    "main.js": "/shopping_list_app/static/js/main.464a95a7.chunk.js",
+    "main.js.map": "/shopping_list_app/static/js/main.464a95a7.chunk.js.map",
+    "runtime-main.js": "/shopping_list_app/static/js/runtime-main.94649ca1.js",
+    "runtime-main.js.map": "/shopping_list_app/static/js/runtime-main.94649ca1.js.map",
+    "static/js/2.77aef0d4.chunk.js": "/shopping_list_app/static/js/2.77aef0d4.chunk.js",
+    "static/js/2.77aef0d4.chunk.js.map": "/shopping_list_app/static/js/2.77aef0d4.chunk.js.map",
+    "index.html": "/shopping_list_app/index.html",
+    "static/css/main.f7556391.chunk.css.map": "/shopping_list_app/static/css/main.f7556391.chunk.css.map",
+    "static/js/2.77aef0d4.chunk.js.LICENSE.txt": "/shopping_list_app/static/js/2.77aef0d4.chunk.js.LICENSE.txt",
+    "static/media/minus-icon.c71ad478.svg": "/shopping_list_app/static/media/minus-icon.c71ad478.svg",
+    "static/media/plus-icon.a9362ce1.svg": "/shopping_list_app/static/media/plus-icon.a9362ce1.svg",
+    "static/media/shopping-icon.9dbe3872.svg": "/shopping_list_app/static/media/shopping-icon.9dbe3872.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94649ca1.js",
+    "static/js/2.77aef0d4.chunk.js",
+    "static/css/main.f7556391.chunk.css",
+    "static/js/main.464a95a7.chunk.js"
+  ]
+}
